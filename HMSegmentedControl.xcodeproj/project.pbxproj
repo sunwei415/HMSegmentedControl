@@ -259,12 +259,12 @@
 				TargetAttributes = {
 					9C1632D71DA57134001FB468 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = C75GEDTP26;
+						DevelopmentTeam = G8S4LEN4P2;
 						ProvisioningStyle = Automatic;
 					};
 					9C1632F11DA572BA001FB468 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = C75GEDTP26;
+						DevelopmentTeam = G8S4LEN4P2;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -455,7 +455,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = C75GEDTP26;
+				DEVELOPMENT_TEAM = G8S4LEN4P2;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -474,7 +474,7 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = C75GEDTP26;
+				DEVELOPMENT_TEAM = G8S4LEN4P2;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
@@ -491,7 +491,7 @@
 		9C1633071DA572BA001FB468 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = C75GEDTP26;
+				DEVELOPMENT_TEAM = G8S4LEN4P2;
 				INFOPLIST_FILE = "$(SRCROOT)/HMSegmentedControlExample/HMSegmentedControlExample-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.heshammegid.HMSegmentedControlExample;
@@ -502,7 +502,7 @@
 		9C1633081DA572BA001FB468 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				DEVELOPMENT_TEAM = C75GEDTP26;
+				DEVELOPMENT_TEAM = G8S4LEN4P2;
 				INFOPLIST_FILE = "$(SRCROOT)/HMSegmentedControlExample/HMSegmentedControlExample-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.heshammegid.HMSegmentedControlExample;
